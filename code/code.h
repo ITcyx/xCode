@@ -27,9 +27,11 @@ namespace x
 		static const int MIB = 1025;  // 1MiB=1024KiB
 		static const int GIB = 1026;  // 1GiB=1024MiB
 		static const int TIB = 1027;  // 1TiB=1024GiB
+		static const int PIB = 1028;  // 1PiB=1024TiB
 		static const int KB = 1000;  // 1KB=1000B
 		static const int MB = 1001;  // 1MB=1000KB
 		static const int GB = 1002;  // 1GB=1000MB
 		static const int TB = 1003;  // 1TB=1000GB
+		static const int PB = 1004;  // 1PB=1000TB
 	};
 }
