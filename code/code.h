@@ -33,5 +33,9 @@ namespace x
 		static const int GB = 1002;  // 1GB=1000MB
 		static const int TB = 1003;  // 1TB=1000GB
 		static const int PB = 1004;  // 1PB=1000TB
+
+		// 操作标识符
+		static const int INSERT = 21020701;
+		static const int COVER = 21020702;
 	};
 }
